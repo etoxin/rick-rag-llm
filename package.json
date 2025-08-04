@@ -1,0 +1,30 @@
+{
+  "name": "rick-rag-llm",
+  "version": "1.0.0",
+  "description": "Rick and Morty, Rick Sanchez Retrieval-Augmented Generation Large Language Model trained on Gemma3n.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etoxin/rick-rag-llm.git"
+  },
+  "author": "etoxin - Adam Lusted",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etoxin/rick-rag-llm/issues"
+  },
+  "homepage": "https://github.com/etoxin/rick-rag-llm#readme",
+    "dependencies": {
+    "@langchain/community": "^0.3.49",
+    "@langchain/ollama": "^0.2.3",
+    "chalk": "^5.4.1",
+    "csv-parse": "^6.1.0",
+    "faiss-node": "^0.5.1",
+    "gradient-string": "^3.0.0",
+    "langchain": "^0.3.30",
+    "ollama": "^0.5.16",
+    "ora": "^8.2.0"
+  }
+}
