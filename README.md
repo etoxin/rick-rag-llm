@@ -1,13 +1,12 @@
 # Rick Rag LLM
 
-Rick and Morty, Rick Sanchez Retrieval-Augmented Generation Large Language Model trained on Gemma 3n. 
+Rick and Morty, Rick Sanchez Retrieval-Augmented Generation Large Language Model trained on Gemma 3n.
 
 Trained on Rick and Morty scripts.
 
 ![Rick Rag LLM](https://raw.githubusercontent.com/etoxin/rick-rag-llm/refs/heads/main/screenshot.png "Rick Rag LLM")
 
-
-## Prerequisites 
+## Prerequisites
 
 - [Ollama](https://ollama.com/)
 - Node v22
@@ -44,3 +43,7 @@ npm install
 ```bash
 npm start
 ```
+
+## Tips
+
+Remove `./faiss_rick_store` if you want to re-embed.

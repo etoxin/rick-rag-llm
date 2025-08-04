@@ -16,7 +16,7 @@
     "url": "https://github.com/etoxin/rick-rag-llm/issues"
   },
   "homepage": "https://github.com/etoxin/rick-rag-llm#readme",
-    "dependencies": {
+  "dependencies": {
     "@langchain/community": "^0.3.49",
     "@langchain/ollama": "^0.2.3",
     "chalk": "^5.4.1",
