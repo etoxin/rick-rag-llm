@@ -1,8 +1,11 @@
-# rick-rag-llm
+# Rick Rag LLM
 
 Rick and Morty, Rick Sanchez Retrieval-Augmented Generation Large Language Model trained on Gemma 3n. 
 
 Trained on Rick and Morty scripts.
+
+![Rick Rag LLM](https://raw.githubusercontent.com/etoxin/rick-rag-llm/refs/heads/main/screenshot.png "Rick Rag LLM")
+
 
 ## Prerequisites 
 
