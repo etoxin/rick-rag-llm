@@ -47,3 +47,7 @@ npm start
 ## Tips
 
 Remove `./faiss_rick_store` if you want to re-embed.
+
+## Note
+
+Rick knows he has been put into the terminal.
